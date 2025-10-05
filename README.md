@@ -1,1 +1,1 @@
-# symptom_checker_ai
+# symptom_checker
